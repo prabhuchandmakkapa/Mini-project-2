@@ -1,0 +1,7 @@
+echo geetings
+ls
+pwd
+cd
+grep
+sleep 100
+cat commands.txt
